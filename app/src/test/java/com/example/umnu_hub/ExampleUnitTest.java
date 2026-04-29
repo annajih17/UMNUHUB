@@ -1,4 +1,4 @@
-package com.example.asuu;
+package com.example.umnu_hub;
 
 import org.junit.Test;
 

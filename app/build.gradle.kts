@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.asuu"
+    namespace = "com.example.umnu_hub"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.asuu"
+        applicationId = "com.example.umnu_hub"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
