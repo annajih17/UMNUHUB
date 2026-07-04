@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tentang Aplikasi"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UMNU Hub"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Versi 1.0"
+        android:textSize="16sp"
+        android:textColor="#666"
+        android:layout_marginTop="8dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:textSize="16sp"
+            android:text="Tentang Aplikasi
+UMNU Hub adalah aplikasi resmi yang dirancang untuk mempermudah komunikasi antara mahasiswa, dosen, dan pihak kampus Universitas Ma'arif Nahdlatul Ulama (UMNU). Aplikasi ini menjadi wadah digital bagi mahasiswa untuk menyampaikan aspirasi, saran, maupun keluhan secara mudah, cepat, dan transparan.
+Melalui UMNU Hub, pengguna dapat membuat laporan, memantau status penanganan, menerima notifikasi, serta berinteraksi dengan pihak kampus dalam satu platform yang terintegrasi. Dengan hadirnya aplikasi ini, diharapkan kualitas pelayanan akademik dan nonakademik semakin meningkat serta tercipta komunikasi yang lebih efektif di lingkungan kampus.
+Versi Aplikasi: 1.0.0
+Developer: Tim Pengembang UMNU Hub
+Platform: Android
+Hak Cipta: © 2026 UMNU Hub. Seluruh hak cipta dilindungi.
+Slogan:
+Satu Aplikasi, Satu Kampus, Sejuta Solusi." />
+    </ScrollView>
+</LinearLayout>

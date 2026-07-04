@@ -24,7 +24,7 @@
         android:id="@+id/etNIMLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="NIM"
+        android:hint="Email"
         android:inputType="textEmailAddress" />
 
     <EditText
@@ -33,6 +33,32 @@
         android:layout_height="wrap_content"
         android:hint="Password"
         android:inputType="textPassword" />
+
+    <RadioGroup
+        android:id="@+id/rgRole"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rbUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/rbDosen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dosen"/>
+
+        <RadioButton
+            android:id="@+id/rbAdmin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Admin"/>
+
+    </RadioGroup>
 
     <Button
         android:id="@+id/btnLogin"
