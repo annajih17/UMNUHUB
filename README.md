@@ -67,9 +67,9 @@ UMNUHUB/
 Demo Aplikasi
 Video demo dapat diakses melalui:
 YouTube:
-https://youtube.com/........
+  [https://youtube.com/........](https://youtube.com/shorts/5DmMet2MwHA?si=Mm_B4MfEuKjoTY6T)
 Repository
-https://github.com/annajih17/UMNUHUB
+  https://github.com/annajih17/UMNUHUB
 Pengembang
 Kelompok Proyek UMNU HUB
 -Muhammad Fathin Abi Putra (TI1024112)
