@@ -67,7 +67,7 @@ UMNUHUB/
 Demo Aplikasi
 Video demo dapat diakses melalui:
 YouTube:
-  [https://youtube.com/........](https://youtube.com/shorts/5DmMet2MwHA?si=Mm_B4MfEuKjoTY6T)
+  https://youtube.com/shorts/gEdBmaX7BW0?si=yEzR7TPTjq6Iuhpo
 Repository
   https://github.com/annajih17/UMNUHUB
 Pengembang
